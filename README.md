@@ -1,0 +1,2 @@
+# Sales-Win-Loss
+This Notebook is created for personal learning purpose. I've been following some tutorials online and skilling myself up in ML and Data Science field.  I created this Notebook while learning different phases of creating Machine Learning models. Also exploring SciKit-Learn ML library for python.  With this I'm using Sales Win and Loss data set from IBM’s Watson repository, which is explored further in the notebook.
